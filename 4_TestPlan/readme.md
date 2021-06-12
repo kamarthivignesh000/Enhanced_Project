@@ -12,3 +12,7 @@
 |T_09|FULL ADDER|Scenario based|
 |T_10|HALF SUBTRACTOR|Scenario based|
 |T_11|FULL SUBTRACTOR|Scenario based|
+|T_12|MULTIPLEXER|Scenario based|
+|T_13|DEMULTIPLEXER|Scenario based|
+|T_14|ENCODER|Scenario based|
+|T_15|DECODER|Scenario based|
